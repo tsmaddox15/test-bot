@@ -180,4 +180,4 @@ async def split(ctx, gp):
 #         await bot.send_message(message.author, "Please only type !split or confirm on #loot-and-splits")
 
 
-bot.run('NDgwMzk5NDAzODM2NzY4MjU3.DlnQig.OoChZ4ZKIyXqJdsiDs1fmbPq1FY')
+bot.run('')
